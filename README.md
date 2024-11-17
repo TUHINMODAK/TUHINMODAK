@@ -29,10 +29,10 @@ Welcome to my GitHub profile! I am a passionate **Software & Web Developer**, **
 
 ## 📂 **Highlighted Projects**  
 
-### 🎨 [**Pixels**](https://github.com/TuhinModak/Pixels)  
+### 🎨 [**Pixels**](https://github.com/TUHINMODAK/pixels)  
 A platform for creative photographers to display their talent and connect with like-minded individuals.  
 
-### 🌉 [**Street-Light-IoT-Dashboard**](https://github.com/TuhinModak/Street-Light-IoT-Dashboard)  
+### 🌉 [**Street-Light-IoT-Dashboard**](https://github.com/TUHINMODAK/Street-Light-IoT-Dashboard)  
 A dashboard to monitor streetlight readings and detect anomalies, enhancing urban infrastructure efficiency.  
 
 ### 📱 **AR-Based Application**  
@@ -45,17 +45,17 @@ A mobile application to remotely control a laptop's mouse and keyboard with adva
 
 ## 📫 **Connect with Me**  
 
-- 🌐 Portfolio: [My Portfolio](https://www.tuhinmodak.dev)  
-- 💼 LinkedIn: [Tuhin Modak](https://www.linkedin.com/in/tuhinmodak)  
-- 📧 Email: [tuhin.modak@example.com](mailto:tuhin.modak@example.com)  
+- 🌐 Portfolio: [My Portfolio](https://tuhinmodak.netlify.app)  
+- 💼 LinkedIn: [Tuhin Modak](https://www.linkedin.com/in/tuhin-modak-a776212a8)  
+- 📧 Email: [tuhin.modak@example.com](mailto:modaktuhin31@gmail.com)  
 
 ---
 
 ## 📈 **GitHub Stats**
 
-![Tuhin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TuhinModak&show_icons=true&theme=react)
+![Tuhin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TUHINMODAK&show_icons=true&theme=react)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TuhinModak&layout=compact&theme=react)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TUHINMODAK&layout=compact&theme=react)
 
 ---
 
