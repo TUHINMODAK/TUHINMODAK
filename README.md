@@ -35,11 +35,11 @@ A platform for creative photographers to display their talent and connect with l
 ### 🌉 [**Street-Light-IoT-Dashboard**](https://github.com/TUHINMODAK/Street-Light-IoT-Dashboard)  
 A dashboard to monitor streetlight readings and detect anomalies, enhancing urban infrastructure efficiency.  
 
-### 📱 **AR-Based Application**  
+<!--### 📱 **AR-Based Application**  
 An Augmented Reality app to revolutionize interactions with digital environments.  
 
 ### 🖥 **Remote Mouse & Keyboard App**  
-A mobile application to remotely control a laptop's mouse and keyboard with advanced features.  
+A mobile application to remotely control a laptop's mouse and keyboard with advanced features.  -->
 
 ---
 
