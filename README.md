@@ -47,7 +47,7 @@ A mobile application to remotely control a laptop's mouse and keyboard with adva
 
 - 🌐 Portfolio: [My Portfolio](https://tuhinmodak.netlify.app)  
 - 💼 LinkedIn: [Tuhin Modak](https://www.linkedin.com/in/tuhin-modak-a776212a8)  
-- 📧 Email: [tuhin.modak@example.com](mailto:modaktuhin31@gmail.com)  
+- 📧 Email: [modaktuhin31@gmail.com](mailto:modaktuhin31@gmail.com)  
 
 ---
 
